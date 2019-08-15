@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/F13RC3/anaconda3/bin/python",
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 16,
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always"
+}
