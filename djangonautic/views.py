@@ -7,5 +7,5 @@ def homepage(request):
 
 def about(request):
     # return HttpResponse("about")
-    return render(request, "about.html")
+    return render(request, "aboutx.html")
 
